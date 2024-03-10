@@ -10,7 +10,7 @@ Repositório para armazenar o projeto apresentando no Bootcamp [Digital Innovati
 
 ## 🖥 Resumo da Aula
 
-Explorei técnicas do ETL (Extract, Transform, Load) usando Pytho. Aprendi a criar colunas e concatenar as tabelas, mantendo a confiabilidade e a rastreabilidade dos dados.  
+Durante meu projeto de ETL (Extract, Transform, Load) em Python, aprimorei habilidades para coletar dados de várias fontes, transformá-los para análises e carregá-los em uma única planilha Excel. Isso incluiu processos de extração abrangentes, transformações para garantir qualidade e integridade dos dados, e carga eficiente para acesso e análise posterior. Ao final, obtive uma solução consolidada e confiável para integração de dados.
 
 ## 🔍 Referências 
 
